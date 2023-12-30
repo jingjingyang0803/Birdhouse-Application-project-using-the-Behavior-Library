@@ -26,7 +26,7 @@ Additionally, the `App.java` is located in the base directory.
 1. First, clone the Behavior Library project to your local machine:
 
    ```bash
-   git clone https://gitlab.tamk.cloud/sw-architectures-and-design-2023-jingjing-yang/behavior-library.git
+   git clone https://github.com/jingjingyang0803/Birdhouse-Application-project-using-the-Behavior-Library.git
    ```
 
 2. Navigate to the Behavior Library project directory and install it to your local Maven repository:
