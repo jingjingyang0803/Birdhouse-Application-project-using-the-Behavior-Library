@@ -26,7 +26,7 @@ Additionally, the `App.java` is located in the base directory.
 1. First, clone the Behavior Library project to your local machine:
 
    ```bash
-   git clone https://github.com/jingjingyang0803/Birdhouse-Application-project-using-the-Behavior-Library.git
+   git clone https://github.com/jingjingyang0803/Behavior-Library-project-for-Birdhouse-application.git
    ```
 
 2. Navigate to the Behavior Library project directory and install it to your local Maven repository:
@@ -39,7 +39,7 @@ Additionally, the `App.java` is located in the base directory.
 3. Next, clone the Birdhouse Application project to your local machine:
 
    ```bash
-   git clone https://gitlab.tamk.cloud/sw-architectures-and-design-2023-jingjing-yang/birdhouse-application.git
+   git clone  https://github.com/jingjingyang0803/Birdhouse-Application-project-using-the-Behavior-Library.git
    ```
 
    Note: The Behavior Library and Birdhouse Application projects don't necessarily need to be in the same directory on your local machine. As long as you've installed the Behavior Library to your local Maven repository, the Birdhouse Application can access it from there, regardless of their respective directory locations.
